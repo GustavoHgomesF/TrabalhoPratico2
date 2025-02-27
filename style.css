@@ -5,12 +5,23 @@ body{
     height: 100vh;
     margin: 0;
 }
-.container{
-    width: 80%;
-    max-width: 500px;
+.margem1{
+    width: 60%;
+    max-width: 800px;
     padding: 20px;
-    text-align: center;
-    border: 1px solid #ccc;
+    text-align:left;
+    border: 50px solid #d4c2c2;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+}
+.margem2{
+    width: 60%;
+    max-width: 800px;
+    padding: 20px;
+    text-align:left;
+    border: 50px solid #d4c2c2;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
 }
